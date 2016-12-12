@@ -10,6 +10,9 @@ body {
   color: white;
   background-color: #70db70;
 }
+intro header {
+  background-image: url("http://www.earthsciweek.org/sites/default/files/GMD/shutterstock_95584639_archaeological_excavation_Marques_resized.jpg");
+}
 html {
   width: 100%;
   height: 100%;
@@ -124,7 +127,7 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: white;
-  background-image: url"http://www.earthsciweek.org/sites/default/files/GMD/shutterstock_95584639_archaeological_excavation_Marques_resized.jpg"; no-repeat bottom center scroll;
+  background-image: url ("http://www.earthsciweek.org/sites/default/files/GMD/shutterstock_95584639_archaeological_excavation_Marques_resized.jpg") no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
