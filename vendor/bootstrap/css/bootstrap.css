@@ -12,6 +12,9 @@ html {
 body {
   margin: 0;
 }
+intro header { 
+  background-image: url ("http://www.earthsciweek.org/sites/default/files/GMD/shutterstock_95584639_archaeological_excavation_Marques_resized.jpg");
+}
 article,
 aside,
 details,
