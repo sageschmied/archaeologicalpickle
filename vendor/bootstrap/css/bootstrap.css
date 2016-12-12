@@ -243,17 +243,17 @@ th {
   }
   .btn > .caret,
   .dropup > .btn > .caret {
-    border-top-color: #000 !important;
+    border-top-color: #00b3b3 !important;
   }
   .label {
-    border: 1px solid #000;
+    border: 1px solid #006666;
   }
   .table {
     border-collapse: collapse !important;
   }
   .table td,
   .table th {
-    background-color: #fff !important;
+    background-color:#33cccc !important;
   }
   .table-bordered th,
   .table-bordered td {
@@ -1097,7 +1097,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color:#b3b3ff ;
+  color:#006666 ;
   text-decoration: none;
 }
 a:hover,
